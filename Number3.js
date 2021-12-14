@@ -11,5 +11,3 @@ const climbStairs = (stair) => {
     }
     
 }
-console.log(climbStairs([5, 5, 15, 25]));
-console.logc(climbStairs([10, 15, 20]))

@@ -21,7 +21,3 @@ let decodedMessage = "";
  
  for (let i=0;i<resultNumber.length;i++){
      let numIndex = number.indexOf(resultNumber[i]);
-     let decodedLetters = letters[numIndex];
-     decodedMessage += decodedLetters;
- }
- return decodedMessage;
